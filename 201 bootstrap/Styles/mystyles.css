@@ -1,0 +1,26 @@
+.littletitle{
+    font-size: 1.50rem;
+    font-weight: 700;
+    margin-top: 1.25rem;
+  }
+  .italic{
+    font-style: italic;
+  }
+  .justify{
+    text-align: center;
+  }
+  .bold{
+      font-weight: bold;
+  }
+  .grey{
+      color: darkslategray;
+  }
+  .grey:hover{
+      color: #0085A1;
+  }
+  .change{
+    font-weight: 300;
+    margin-bottom: 0.625rem;
+    font-style: italic;
+    color: darkslategray;
+  }
